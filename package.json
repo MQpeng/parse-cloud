@@ -1,0 +1,27 @@
+{
+  "name": "parse-cloud",
+  "version": "1.0.0",
+  "description": "the first of parse server",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MQpeng/parse-cloud.git"
+  },
+  "keywords": [
+    "parse"
+  ],
+  "author": "freedomshao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MQpeng/parse-cloud/issues"
+  },
+  "homepage": "https://github.com/MQpeng/parse-cloud#readme",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "express": "^4.15.3",
+    "parse-server": "^2.4.0"
+  }
+}
